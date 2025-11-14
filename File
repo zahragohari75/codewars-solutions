@@ -1,0 +1,20 @@
+# فایل‌های موقت و ویندوز
+*.exe
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# محیط‌های توسعه
+.vscode/
+.idea/
+
+# فایل‌های تست محلی
+test/
+__pycache__/
+node_modules/
+
+# فایل‌های مخفی و سیستمی
+.env
+*.swp
+
